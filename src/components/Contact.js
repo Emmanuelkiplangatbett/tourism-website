@@ -19,7 +19,7 @@ class Contact extends Component {
               <Col lg="4" md="4">
                 <div className="svg-card-3">
                   <Phone width="50" height="55" strokeWidth="1" />
-                  <p>0912 345 6789</p>
+                  <p>0716968089</p>
                 </div>
               </Col>
               <Col lg="4" md="4">
